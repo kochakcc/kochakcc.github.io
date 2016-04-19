@@ -1,2 +1,2 @@
 # kochakcc.github.io
-kochakcc的博客
+紅茶菌的个人博客
